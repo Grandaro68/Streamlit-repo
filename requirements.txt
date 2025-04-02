@@ -1,5 +1,3 @@
-TOUTES LES BIBLIOTHEQUES DONT ON A BESOIN POUR EXECUTER LE FICHIER
-
 import streamlit as st
 import random
 import joblib
