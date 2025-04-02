@@ -1,5 +1,2 @@
-import streamlit as st
+import streamlit
 import random
-import joblib
-joblib.dump(clf, "model")
-joblib.load("model")
